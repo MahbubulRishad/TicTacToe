@@ -41,6 +41,7 @@ public class TicTacToeMainClass {
             }
         }
         printBoard(board);
+
     }
 
     public static void printBoard(char[][] board) {
